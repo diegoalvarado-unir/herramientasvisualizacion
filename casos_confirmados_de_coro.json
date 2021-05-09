@@ -6,7 +6,7 @@
     "Datos": {
         "Metricas": [
             {
-                "Id": 0,
+                "Id": "Casos",
                 "Nombre": "Coronavirus a nivel diario - Número de casos en lo que va de año para España como país",
                 "SonDatosNumericos": true,
                 "Fuente": "Universidad Johns Hopkins,Ministerio de Sanidad, Servicios Sociales e Igualdad",
@@ -2938,7 +2938,7 @@
                 ]
             },
             {
-                "Id": 1,
+                "Id": "Vacunas",
                 "Nombre": "Coronavirus a nivel diario - Dosis administradas para España como país",
                 "SonDatosNumericos": true,
                 "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
